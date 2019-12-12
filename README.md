@@ -10,7 +10,7 @@
   <p align="center">
     An Ethereum Classic PoW testnet to replace Morden.
     <br />
-    <a href="https://mordorexplorer.ethernode.io/">Mordor Explorer</a>
+    <a href="http://mordor.etccoopexplorer.com/">Mordor Explorer</a>
     ·
     <a href="https://github.com/eth-classic/mordor/issues/new">Create an Issue</a>
   </p>
